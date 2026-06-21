@@ -22,17 +22,10 @@ A simple Streamlit application that allows users to upload a resume and view bas
 
 ![Upload Success](screenshots/upload-success.png)
 
-## Project Structure
-resume-upload-app/
-│
-├── app.py
-├── requirements.txt
-├── README.md
-└── screenshots/
-    ├── upload-page.png
-    └── upload-success.png
 
 ## Installation
+
+```bash
 pip install -r requirements.txt
 ```
 
